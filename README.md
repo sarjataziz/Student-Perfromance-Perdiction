@@ -50,9 +50,9 @@ The project employs a regression approach, specifically Linear Regression, to pr
 
 The Linear Regression model, utilized in the experiment, demonstrated successful outcomes in predicting students' academic performance. The provided images showcase the results, including the correlation heatmap, precision-recall curves, accuracy, and F1-score, contributing valuable insights to the field of student performance prediction.
 
-![Correlation Heatmap]()
-![Precision-Recall Curves]()
-![Accuracy]()
-![F1-Score]()
+![Correlation Heatmap](img/CorrelationHeatmap.png)
+![Precision-Recall Curves](img/Precision-RecallCurves.png)
+![Accuracy](img/Accuracy.png)
+![F1-Score](img/F1-Score.png)
 
 The project aims to advance educational analytics and foster evidence-based decision-making in academic institutions.
