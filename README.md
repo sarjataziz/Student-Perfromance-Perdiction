@@ -1,4 +1,4 @@
-# Student Performance Perdiction
+# Student Performance Prediction
 ## Why This Project
 
 Predicting student performance using machine learning offers invaluable insights into educational dynamics. By utilizing up-to-date and freely available datasets, the project provides the following benefits:
@@ -38,20 +38,20 @@ The project employs a regression approach, specifically Linear Regression, to pr
 
 ### Evaluation Metrics:
 
-1. **Confusion Matrix:** Visualize the classification performance of the model, providing insights into true positives, true negatives, false positives, and false negatives.
+1. **Confusion Matrix:** Visualize the model's classification performance, providing insights into true positives, true negatives, false positives, and false negatives.
 
-2. **Precision-Recall Curves:** Identify the trade-off between precision and recall at different probability thresholds, aiding in the selection of the best threshold for the model.
+2. **Precision-Recall Curves:** Identify the trade-off between precision and recall at different probability thresholds, aiding in selecting the best threshold for the model.
 
 3. **Accuracy:** Quantify the proportion of correctly predicted instances out of the total instances.
 
-4. **F1-Score:** Provide a balanced assessment of the model's performance, considering both precision and recall.
+4. **F1-Score:** Provide a balanced assessment of the model's performance, considering precision and recall.
 
 # Results
 
 The Linear Regression model, utilized in the experiment, demonstrated successful outcomes in predicting students' academic performance. The provided images showcase the results, including the correlation heatmap, precision-recall curves, accuracy, and F1-score, contributing valuable insights to the field of student performance prediction.
 
-![Correlation Heatmap](img/CorrelationHeatmap.png)
-![Precision-Recall Curves](img/Precision-RecallCurves.png)
+![Correlation Heatmap](img/Correlation-Heatmap.png)
+![Precision-Recall Curves](img/Precision-Recall-Curves.png)
 ![Accuracy](img/Accuracy.png)
 ![F1-Score](img/F1-Score.png)
 
