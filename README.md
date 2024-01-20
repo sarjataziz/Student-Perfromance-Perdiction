@@ -56,3 +56,10 @@ The Linear Regression model, utilized in the experiment, demonstrated successful
 ![F1-Score](img/F1-Score.png)
 
 The project aims to advance educational analytics and foster evidence-based decision-making in academic institutions.
+####
+
+- [MD-RAUFUR-RAHIM](https://github.com/MD-RAUFUR-RAHIM)
+- [Sarjataziz](https://github.com/sarjataziz)
+- [Amp47](https://github.com/Amp47)
+
+
